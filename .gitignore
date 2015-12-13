@@ -1,0 +1,10 @@
+History/
+*~
+config.csv
+*.class
+OLD_DB/
+case_DB.csv
+TutorLogger
+result.csv
+*.DS_Store
+build/
