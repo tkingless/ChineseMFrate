@@ -1,4 +1,4 @@
-<project name="WebCrawling" basedir="." default="main">
+<project name="ChineseMFrate" basedir="." default="main">
 
 <property name="src.dir"     value="src"/>
 <property name="lib.dir"     value="lib"/>
@@ -10,7 +10,7 @@
 <property name="classes.dir" value="${build.dir}/classes"/>
 <property name="jar.dir"     value="${build.dir}/jar"/>
 
-<property name="main-class"  value="com.tkk.webCrawling.ChineseMFrateMain"/>
+<property name="main-class"  value="com.tkk.ChineseMFrate.ChineseMFrateMain"/>
 
 
 
